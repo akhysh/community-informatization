@@ -1,37 +1,21 @@
-## Welcome to GitHub Pages
+---
+layout: default
+title: 地域情報化関係の情報整理
+---
 
-You can use the [editor on GitHub](https://github.com/akhysh/community-informatization/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+勝手に自治体・地域情報化関連の情報をまとめます。  
+吉本の個人的見解です。見解の内容について何ら保証するものではありません。  
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+# IT総合戦略本部関連
+[デジタル・ガバメント実行計画][1a1f1e52]
 
-### Markdown
+[デジタル・ガバメント推進方針][ab0613b6]  
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
+[デジタル・ガバメント推進方針　別紙　規制制度改革との連携による行政手続・民間取引 IT化に向けたアクションプラン（通称：デジタルファースト・アクションプラン）][a5562254]
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/akhysh/community-informatization/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+[1a1f1e52]: https://akhysh.github.io/community-informatization/dgovp/dgovp.html "デジタル・ガバメント実行計画"
+[ab0613b6]: https://akhysh.github.io/community-informatization/dgovp/digitalgov.html "デジタル・ガバメント推進方針"
+[a5562254]: https://akhysh.github.io/community-informatization/dgovp/digitalfirst.html "デジタルファースト・アクションプラン"
