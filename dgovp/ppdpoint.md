@@ -130,4 +130,5 @@ title: 地方の官民データ活用推進計画策定の手引
 
 
  [414d7e0a]: https://cio.go.jp/chihou-tebiki "地方の官民データ活用推進計画策定の手引"
+ [1b67e668]: https://www.kantei.go.jp/jp/singi/it2/ "IT総合戦略本部"
 
