@@ -37,5 +37,5 @@ title: 地域情報化関係の情報整理
 [a5562254]: https://akhysh.github.io/community-informatization/dgovp/digitalfirst.html "デジタルファースト・アクションプラン"
 [414d7e0a]: https://akhysh.github.io/community-informatization/govcio/localgovopendata.html "地方公共団体オープンデータ推進ガイドライン"
 [414d7e0b]: https://akhysh.github.io/community-informatization/dgovp/itkihon.html "ＩＴ利活用に係る基本指針"
-[414d7e0c]: https://akhysh.github.io/community-informatization/dgovp/opendatakihon.html "オープンデータ基本指針"[8fb1a680]: https://akhysh.github.io/community-informatization/pd/report.html "パーソナルデータの利活用促進と消費者の信頼性確保の両立に向けて"
-
+[414d7e0c]: https://akhysh.github.io/community-informatization/dgovp/opendatakihon.html "オープンデータ基本指針"
+[8fb1a680]: https://akhysh.github.io/community-informatization/pd/report.html "パーソナルデータの利活用促進と消費者の信頼性確保の両立に向けて"
