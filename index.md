@@ -13,6 +13,7 @@ title: 地域情報化関係の情報整理
 # パーソナルデータ関連
 2018年4月　[地方公共団体が保有するパーソナルデータの効果的な活用のための仕組みの在り方に関する検討会報告書][66e66df9]  
 
+2017年2月　[個人情報保護委員会事務局レポート 匿名加工情報 パーソナルデータの利活用促進と消費者の信頼性確保の両立に向けて][8fb1a680]」  
 
 # IT総合戦略本部関連
 2018年1月16日　[デジタル・ガバメント実行計画][1a1f1e52]
@@ -36,4 +37,4 @@ title: 地域情報化関係の情報整理
 [a5562254]: https://akhysh.github.io/community-informatization/dgovp/digitalfirst.html "デジタルファースト・アクションプラン"
 [414d7e0a]: https://akhysh.github.io/community-informatization/govcio/localgovopendata.html "地方公共団体オープンデータ推進ガイドライン"
 [414d7e0b]: https://akhysh.github.io/community-informatization/dgovp/itkihon.html "ＩＴ利活用に係る基本指針"
-[414d7e0c]: https://akhysh.github.io/community-informatization/dgovp/opendatakihon.html "オープンデータ基本指針"
+[414d7e0c]: https://akhysh.github.io/community-informatization/dgovp/opendatakihon.html "オープンデータ基本指針"[8fb1a680]: https://akhysh.github.io/community-informatization/pd/report.html "パーソナルデータの利活用促進と消費者の信頼性確保の両立に向けて"
